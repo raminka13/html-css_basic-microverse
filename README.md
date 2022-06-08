@@ -1,72 +1,43 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-> Description the project.
+# Project
+> About this project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- **HTML & CSS best practices:** Correct use of tags, elements, properties and syntax.
+- **GitHub flow:**  Correct use of Branches for deployment and features development.
+- **Linters Check:** Local and Pull Request check for errors, bugs and stylistic errors in code.
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+[Live Demo Link](https://raminka13.github.io/M1-Portfolio/)
 
 ## Authors
 
-👤 **Author1**
+👤 **Raul A Ospina**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@raminka13](https://github.com/raminka13)
+- Twitter: [@raminka13](https://twitter.com/raminka13)
+- LinkedIn: [Raul Ospina](http://linkedin.com/in/raul-ospina-83232614)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## Collaborators
 
-## 🤝 Contributing
+- [Name](URL)
+- [Name](URL)
 
-Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+## Project Milestones
+
+
+- Milestone 1
+
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
