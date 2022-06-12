@@ -10,3 +10,4 @@ node_modules/
 #Ignore Local Linters
 .hintrc
 .stylelintrc.jason
+.eslintrc.json
